@@ -28,3 +28,4 @@ s.onkey(key='a', fun=turn_left)
 s.onkey(key='d', fun=turn_right)
 s.onkey(key='c', fun=all_clear)
 
+s.exitonclick()
